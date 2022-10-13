@@ -1,7 +1,7 @@
 author:
   email: example@example.com
   name: Michael Bluth
-baseurl: https://example.com
+baseurl: https://grupofinancasufmg.netlify.app/
 copyright: © Michael Bluth
 languagecode: en-us
 enablerobotstxt: true

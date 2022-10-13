@@ -1,3 +1,4 @@
+baseURL="https://grupofinancasufmg.netlify.app/"
 [module]
   [module.hugoVersion]
     extended = true
